@@ -1,0 +1,1 @@
+alert ("Olá! Seja bem-vindo ao meu primeiro website. Nele estão algumas informações sobre mim, o que estudo e que linguagens possuo conhecimento.")
