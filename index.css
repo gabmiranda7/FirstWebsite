@@ -1,0 +1,75 @@
+body {
+    color: white;
+    background-color: #252525;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    align-items: center;
+    padding: 5px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+header img {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    border: 5px solid gold;
+}
+
+.center {
+    text-align: center;
+}
+
+h1 {
+    color: gold;
+    text-align: center;
+    font-family: monospace
+}
+
+h2 {
+    text-align: center;
+    font-family: monospace;
+}
+
+h3 {
+    color: gold;
+}
+
+footer img {
+    width: 30px;
+    height: 30px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+footer a {
+    margin: 40px;
+    text-align: center;
+}
+
+footer p {
+    margin-top: 5px;
+}
+
+footer p:hover {
+    color: gold;
+}
+
+.container {
+    padding: 0px 50px;
+}
+
+nav a:hover {
+    color: gold;
+}
